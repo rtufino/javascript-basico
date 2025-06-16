@@ -52,4 +52,4 @@ document.getElementById("btnAgregar").addEventListener(
         // Agregar item a la lista
         lista.appendChild(nuevoItem);
     }
-)
+);
